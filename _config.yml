@@ -1,14 +1,14 @@
-layout_spectrum: 0.4332137
+layout_spectrum: 0.2462687
 typography_spectrum: 0.2764172
 color:
   saturation: 0.3095344
   lightness: 0.5399593
   brandStrength: 0.9657559
-  rhythmicContrast: 0.240783
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FFFFFF'
+    - '#161C15'
+    - '#364D16'
+    - '#BFC2CA'
+    - '#B4A979'
+  rhythmicContrast: 0.240783
 name: Rosso
